@@ -4,11 +4,12 @@
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+theRavensea." alt="Typing SVG" /></a>
-</p>
+</p>   
 
 
-## 🌠[theRavensea](https://github.com/theRavensea)
-> You have finally discovered my Github profile.
+
+## 🌠[theRavensea](https://github.com/theRavensea)   
+> You have finally discovered my Github profile.   
 
 <div>
     <img height="165" align="left" src="https://github-stats.ubrong.com/api?username=theRavensea&show_icons=true&theme=tokyonight" />
