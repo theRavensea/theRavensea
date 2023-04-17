@@ -7,6 +7,9 @@
 </p>
 
 
+## 🌠[theRavensea](https://github.com/theRavensea)
+> You have finally discovered my Github profile.
+
 <div>
     <img height="165" align="left" src="https://github-stats.ubrong.com/api?username=theRavensea&show_icons=true&theme=tokyonight" />
     <img src="https://github-stats.ubrong.com/api/top-langs/?username=theRavensea&layout=compact&theme=tokyonight" />
