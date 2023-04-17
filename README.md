@@ -7,9 +7,10 @@
 </p>
 
 
-![theRavensea](https://github-stats.ubrong.com/api?username=theRavensea&show_icons=true&theme=tokyonight) 
-
-![theRavensea](https://github-stats.ubrong.com/api/top-langs/?username=theRavensea&layout=compact&theme=tokyonight) 
+<div>
+    <img height="165" align="left" src="https://github-stats.ubrong.com/api?username=theRavensea&show_icons=true&theme=tokyonight" />
+    <img src="https://github-stats.ubrong.com/api/top-langs/?username=theRavensea&layout=compact&theme=tokyonight" />
+</div>
 
 
 <!--
